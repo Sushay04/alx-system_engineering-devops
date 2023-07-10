@@ -1,1 +1,1 @@
-My first devops readme
+Various Shell. I/O Redirectios and Filters scripts
